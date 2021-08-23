@@ -3,8 +3,7 @@ short description
 
 write a bit about yourself
 
-skriv något kul /tommi
-
+skriv något kul /tomasi
 
 skriver en till grej hääär 
 
